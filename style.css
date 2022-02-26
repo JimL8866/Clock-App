@@ -3,7 +3,7 @@
       margin: 0;
       padding: 0;
       height: 100%;
-      background-color: aqua;
+      background-image: linear-gradient(to bottom right, red, gold);
     }
 
     .box {
